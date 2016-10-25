@@ -1,0 +1,32 @@
+﻿/* application css */
+#main {font-size:150%;}
+.hl {color:red;}
+.tagmarker{font-size:50%;}
+.pbmarker{background: darkblue; border-radius:5px;color:white;}
+.paragraph{background: darkgreen; border-radius:5px;color:white;font-size:120%;}
+.footnote{background: pink; border-radius:50%;}
+.correction{color:darkgreen;}
+.warning {background:red;width:100%;color:yellow;}
+.sutta {font-size:135%;color:brown;}
+.pinpoint{background-color:red;color:yellow;}
+
+.vertical {
+	font-size:61%;
+}
+
+.v {writing-mode: vertical-lr;
+		cursor:pointer;
+    -webkit-writing-mode: vertical-lr;
+    height:1920;
+    margin-top:10px;
+    overflow-y:auto;
+    font-family: 微軟正黑體;
+}
+
+.ruler {
+	position:absolute;
+	width:100%;
+	background-color:rgba(128,1128,255,128);
+	height:10px;
+}
+
